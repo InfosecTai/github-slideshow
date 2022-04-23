@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+'all limitations are self-imposed'
 Use the left arrow to go back!
